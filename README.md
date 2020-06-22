@@ -4,4 +4,4 @@ Dump ioncube opcodes array tree to dasm function for future decompiler developme
 
 Use:
 ================================================================
-php run.phpr, change encrypted file inside.
+php run.phpr, change encrypted file inside
