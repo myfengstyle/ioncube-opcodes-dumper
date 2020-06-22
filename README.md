@@ -1,6 +1,6 @@
 Dump ioncube php71 opcodes
 ================================================================
-Dump ioncube opcodes array tree to dasm function for future decompiler development like decompiler class of xcache
+Dump full ioncube opcodes data array tree to dasm function for future decompiler development like decompiler class of xcache
 
 Use:
 ================================================================
