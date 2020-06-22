@@ -1,7 +1,7 @@
 # ioncube-opcodes-dumper
-Dump ioncube php71 opcodes for future decompilation
+Dump ioncube php71 opcodes
 ================================================================
-Dump ioncube opcodes tree for decompiler future development
+Dump ioncube opcodes tree for future decompiler development
 
 Use:
 ================================================================
